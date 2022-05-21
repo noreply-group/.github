@@ -1,3 +1,3 @@
 # The NoReply Group
 
-[Reply-All](https://github.com/noreply-group/reply-all) discussion
+[Reply-All](https://github.com/orgs/noreply-group/discussions) discussion
